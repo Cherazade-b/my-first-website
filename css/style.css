@@ -329,4 +329,14 @@ tr:nth-child(even) td {
     table {
         width: 95%;
     }
+
+     li {
+        list-style: none;
+        text-align: left;
+    }
+
+    .btn-inscription {
+        width: 75%;
+    }
 }
+
